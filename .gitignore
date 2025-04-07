@@ -4,3 +4,6 @@
 
 # FVM
 .fvm
+
+# Server binary file
+dart_uuid_mcp
